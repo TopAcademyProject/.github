@@ -5,7 +5,7 @@
 
 
 # 2. Идея проекта:
-    Cоздать игру "Шахматы" на C#.
+    Cоздать игру "Шахматы" на C#
 
 # 3. Ссылки и реферансы:
    - https://www.figma.com
@@ -13,10 +13,6 @@
    - https://www.youtube.com
    - https://https://github.com
 ------------------
-# Header 1
-## he
-### asdasd
-#### asd
 
 <!--
 
